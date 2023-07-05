@@ -5,9 +5,7 @@
 body {
   padding: 20px 180px;
 }
-h1 {
-  display: block;
-}
+
 header ul {
   list-style-type: none;
   overflow: hidden;
